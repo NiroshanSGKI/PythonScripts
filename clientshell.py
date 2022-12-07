@@ -9,6 +9,8 @@ SERVER_PORT=5003
 BUFFER_SIZE=1024*128
 SEPARATOR= "<sep>"
 
+#socket create
+
 s=socket.socket()
 s.connect((SERVER_HOST,SERVER_PORT))
 
