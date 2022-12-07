@@ -1,4 +1,4 @@
-#Server Script
+#Server Scripting
 import socket
 
 
