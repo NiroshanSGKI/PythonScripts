@@ -1,5 +1,7 @@
-#Server Scripting
+#Server Scripting 1.0
 import socket
+
+
 
 
 SERVER_HOST='0.0.0.0'
